@@ -68,6 +68,20 @@ Os resultados foram visualizados por meio de gráficos de dispersão contendo:
 - os indivíduos coloridos por cluster;
 - os centróides representados por marcadores em formato de "X".
 
+## Visualizações
+
+### Pairplot
+
+![Pairplot](pairplot.png)
+
+### Clusterização (Bill Length × Bill Depth)
+
+![Clusters 1](clusters1.png)
+
+### Clusterização (Flipper Length × Body Mass)
+
+![Clusters 2](clusters2.png)
+
 ---
 
 ## Estrutura do projeto
